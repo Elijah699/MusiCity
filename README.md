@@ -1,3 +1,17 @@
+# MusiCity
+
+[Live-link]()
+
+This is a landing page bootstrapped with ReactJs, Styled-components with AOS library for animation.
+
+**NOTE: This is not MusiCity official website.**
+
+\
+\
+\
+.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
