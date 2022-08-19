@@ -6,6 +6,11 @@ export const HomeContainer = styled.div`
     /* height: 100vh; */
     padding: 30px 0;
 
+
+    img {
+        width: 1400px;
+        height: 600px;
+    }
     /* .first-slide {
         background-image: url(${First});
         background-size: cover;
