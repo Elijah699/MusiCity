@@ -1,6 +1,6 @@
 # MusiCity
 
-[Live-link]()
+[Live-link](https://musicity.netlify.app/)
 
 This is a landing page bootstrapped with ReactJs, Styled-components with AOS library for animation.
 
